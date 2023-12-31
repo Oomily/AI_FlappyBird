@@ -1,0 +1,1 @@
+This is my take on using AI to play the game Flappy Bird. Except, because I'm making the base game myself, it's a little dragon flying through a cave filled with stalagmites and stalactites! This is a work in progress, but will be finished soon!
